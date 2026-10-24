@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/web-agentic-api-docs",
+  "packageVersion": "0.4.4",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/web-agentic-api-docs",
+  "usageRepository": "https://github.com/x12i-sdk/web-agentic-api",
+  "sourceRepository": "https://github.com/x12i/web-agentic-tools",
+  "sourceCommit": "adaddecd37858d6622bc977363c951988ef7b0a4",
+  "sourcePackageDirectory": "packages/web-agentic-api-docs",
+  "example": {
+    "title": "List the bundled guides and read a use case",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:05:11.573559+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "72494bd9250c2197db2f68430500cff29b4a81f398152f5b14b4f192a6ce3ae8",
+    "manifestSha256": "e60a607b63944daa6fc3a20c1ed4447c68642aa1b2c5b661527830e5ac267f53"
+  },
+  "npmPackages": [
+    "@x12i/web-agentic-api-docs"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}
